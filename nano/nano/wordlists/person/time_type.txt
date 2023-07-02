@@ -1,0 +1,7 @@
+minute
+second
+year
+month
+week
+decade
+century

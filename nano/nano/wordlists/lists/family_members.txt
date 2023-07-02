@@ -1,0 +1,15 @@
+mom
+dad
+cousin
+aunt
+uncle
+niece
+nephew
+granddad
+grandma
+stepdad
+stepmom
+god-father
+god-mother
+brother
+sister

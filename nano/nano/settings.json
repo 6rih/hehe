@@ -1,0 +1,21 @@
+{
+    "token": "MTA0NTExMTMzMzM5NTM3MDAzNQ.Gee0rc.HE-MBHt5IgJqnEQTJwnoRhkBMyJxrukTpvXUXc",
+    "front": "➜ nano:",
+    "send_front": "",
+    
+    "dms": true,
+    "server_check": false,
+    "single_server": true,
+    "rate_limiting": true,
+    "fake_ping": true,
+    "logs": true,
+    "discord": true,
+    "custom_ascii": true,
+
+    "channel": 1072296058627035176,
+    "server": 965313710048571392,
+    "user_id": 1045111333395370035,
+    "target": 1072296058627035176,
+    "rate_limit": 2,
+    "delay": 0
+}

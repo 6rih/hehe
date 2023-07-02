@@ -1,0 +1,9 @@
+ankle
+earlobe
+elbow
+hairline
+knee
+knuckle
+left eyeball
+nose
+right eyeball

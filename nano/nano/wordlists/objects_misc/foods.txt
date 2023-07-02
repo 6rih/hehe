@@ -1,0 +1,127 @@
+apple
+banana
+orange
+strawberry
+grape
+mango
+pineapple
+watermelon
+peach
+cantaloupe
+pear
+apricot
+cherrie
+tomatoe
+cucumber
+bell pepper
+onion
+carrot
+potatoe
+corn
+pea
+green bean
+zucchini
+muhroom
+eggplant
+broccoli
+cauliflower
+cabbage
+brusel prout
+pinach
+lettuce
+kale
+radish
+beetroot
+pumpkin
+
+piece of broccoli
+potato
+pickle
+joxx burger
+burger
+watermelon slice
+strawberry seed
+tomato seed
+avocado seed
+pickle seed
+banana seed
+porkchop
+block of cheese
+stick of butter
+onion ring
+lemon seed
+sasquatch
+strip of bacon
+coconut
+fruit bowl
+almond nut
+string bean
+black bean
+nutcracker
+blueberry
+muffin
+chicken nugget
+chicken finger
+chicken drum
+tater tot
+hashbrown
+meatball
+loaf of bread
+taco shell
+hot dog
+sausage
+fried onion ring
+garlic knot
+croissant
+breadstick
+block of tofu
+turkey leg
+chicken breast
+blueberry 
+cranberry 
+pear seed
+plum
+beef jerky stick
+slim jim
+krabby patty
+bamboo stick
+celery stick
+spring roll
+dumpling
+mozzarella sticks
+cheezits
+pretzel stick
+fish cake
+crab cake
+dorito chip
+pizza roll
+jalapeno popper
+jelly donut 
+butterfinger
+snickers bar
+hershery bar
+reeses cup
+twizzler
+licorise stick
+health bar
+rocky road brownie
+baked potato
+sugar cookie
+candy corn
+jaw breaker
+ice pop
+lollipop
+blow pop
+rocket popsicle
+cupcake
+twinkie
+burrito bowl
+goldfish crackers
+saltine cracker
+meatball 
+bowl of mac and cheese
+rice shell
+soy bean
+frosted flake
+cinnamon bun
+honey bun

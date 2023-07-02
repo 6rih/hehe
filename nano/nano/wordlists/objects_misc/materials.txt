@@ -1,0 +1,7 @@
+diamond
+rusty
+gold
+copper
+nickel
+rotten wood
+plastic
